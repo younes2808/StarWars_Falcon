@@ -2,6 +2,9 @@
 
 A responsive 3D viewer built using [Three.js](https://threejs.org/), HTML, CSS, and JavaScript, featuring the iconic **Millennium Falcon** from Star Wars. This project integrates a 3D model imported from [Sketchfab](https://sketchfab.com/3d-models/millennium-falcon-6a27ba566af142708743ccb8b4668d4b) and allows users to explore the model by interactively moving the camera.
 
+![Screenshot1](M1.png)
+![Screenshot2](M2.png)
+---
 ## Features
 
 - 📱 **Responsive Design**: Works on both desktop and mobile devices.
@@ -17,3 +20,12 @@ A responsive 3D viewer built using [Three.js](https://threejs.org/), HTML, CSS, 
 1. Clone this repository:
    ```bash
    git clone https://github.com/younes2808/StarWars_Falcon/
+
+## Technologies Used
+<p>
+<a href="https://threejs.org/" target="_blank" rel="noreferrer">
+ <img src="https://static-00.iconduck.com/assets.00/brand-threejs-icon-2048x2048-r0se91eh.png" width="36" height="36" alt="Three.js" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+</p>
