@@ -1,6 +1,6 @@
 # Three.js Millennium Falcon Viewer
 
-A responsive 3D viewer built using [Three.js](https://threejs.org/), HTML, CSS, and JavaScript, featuring the iconic **Millennium Falcon** from Star Wars. This project integrates a 3D model imported from [Sketchfab](https://sketchfab.com/3d-models/millennium-falcon-6a27ba566af142708743ccb8b4668d4b) and allows users to explore the model by interactively moving the camera.
+A responsive 3D viewer built using [Three.js](https://threejs.org/), HTML, CSS, and JavaScript, featuring the iconic **Millennium Falcon** from Star Wars. This project integrates a 3D model imported from [Sketchfab](https://sketchfab.com/3d-models/millennium-falcon-6a27ba566af142708743ccb8b4668d4b) and allows users to explore the model by interactively moving the camera. **Might take longer to load depending on PC Hardware**
 
 <p align="center">
   <img src="M1.png" alt="Screenshot 1" width="350" height="400" style="margin-right: 10px;">
