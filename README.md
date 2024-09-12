@@ -2,8 +2,8 @@
 
 A responsive 3D viewer built using [Three.js](https://threejs.org/), HTML, CSS, and JavaScript, featuring the iconic **Millennium Falcon** from Star Wars. This project integrates a 3D model imported from [Sketchfab](https://sketchfab.com/3d-models/millennium-falcon-6a27ba566af142708743ccb8b4668d4b) and allows users to explore the model by interactively moving the camera.
 
-![Screenshot1](M1.png)
-![Screenshot2](M2.png)
+<img src="M1.png" alt="Screenshot 1" width="400">
+<img src="M2.png" alt="Screenshot 2" width="400">
 ---
 ## Features
 
