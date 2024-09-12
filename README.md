@@ -6,7 +6,7 @@ A responsive 3D viewer built using [Three.js](https://threejs.org/), HTML, CSS, 
   <img src="M1.png" alt="Screenshot 1" width="350" height="400" style="margin-right: 10px;">
   <img src="M2.png" alt="Screenshot 2" width="350" height="400">
 </p>
----
+
 ## Features
 
 - 📱 **Responsive Design**: Works on both desktop and mobile devices.
