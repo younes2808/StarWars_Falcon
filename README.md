@@ -26,7 +26,7 @@ A responsive 3D viewer built using [Three.js](https://threejs.org/), HTML, CSS, 
 ## Technologies Used
 <p>
 <a href="https://threejs.org/" target="_blank" rel="noreferrer">
- <img src="https://static-00.iconduck.com/assets.00/brand-threejs-icon-2048x2048-r0se91eh.png" width="36" height="36" alt="Three.js" />
+ <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTReZGzoPfgvtLMyn4x9YrJshHHMETW57Iew&s" width="36" height="36" alt="Three.js" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
